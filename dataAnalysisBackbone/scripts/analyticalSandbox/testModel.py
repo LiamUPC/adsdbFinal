@@ -12,8 +12,6 @@ def testModel():
     X_test  = con.execute("SELECT * FROM X_test").df()
     y_test  = con.execute("SELECT * FROM y_test").df()
 
-    print(y_test)
-
     con.close()
 
     model = pickle.load(open('trainedModel.sav', 'rb'))
