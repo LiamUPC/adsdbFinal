@@ -1,0 +1,22 @@
+;;;;;;;
+TS066 - Economic activity status;;;;;;;
+ONS Crown Copyright Reserved [from Nomis on 24 December 2022];;;;;;;
+Population :;All usual residents aged 16 years and over;;;;;;
+Units      :;Persons;;;;;;
+Date       :;2021;;;;;;
+;;;;;;;
+Economic activity status;Boston;East Lindsey;Lincoln;North Kesteven;South Holland;South Kesteven;West Lindsey
+;;;;;;;
+Total: All usual residents aged 16 years and over;57584;121420;87064;98017;78998;118011;79120
+Economically active (excluding full-time students):In employment;32943;54579;43552;55685;44457;66909;41326
+Economically active (excluding full-time students): Unemployed;1411;3241;2299;1728;1758;2598;1754
+Economically active and a full-time student:In employment;688;1000;3163;1209;777;1286;812
+Economically active and a full-time student: Unemployed;218;268;1576;356;217;392;267
+Economically inactive;22324;62332;36474;39039;31789;46826;34961
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;In order to protect against disclosure of personal information, records;;;;;;
+;have been swapped between different geographic areas and counts perturbed;;;;;;
+;by small amounts. Small counts at the lowest geographies will be most;;;;;;
+;affected.;;;;;;
